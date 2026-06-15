@@ -1,7 +1,9 @@
 # رابط تحميل التطبيق
 
-بعد نجاح البناء على GitHub سيظهر ملف APK هنا:
+بعد نجاح البناء، حمل ملف APK مباشرة من هذا الرابط:
 
-`apk/habits-tasks.apk`
+https://github.com/aljwaal1/jobandadaat/raw/main/apk/habits-tasks.apk
 
-رابط التحميل المباشر سيُكتب تلقائيًا داخل هذا الملف بعد البناء.
+اسم الملف:
+
+apk/habits-tasks.apk
